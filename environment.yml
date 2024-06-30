@@ -18,6 +18,7 @@ dependencies:
   - idna=3.7=pyhd8ed1ab_0
   - libcxx=14.0.6=h848a8c0_0
   - libffi=3.4.4=hca03da5_1
+  - mypy=1.10.0=py310h80987f9_0
   - mypy_extensions=1.0.0=pyha770c72_0
   - ncurses=6.4=h313beb8_0
   - nodeenv=1.7.0=py310hca03da5_0
@@ -26,6 +27,7 @@ dependencies:
   - pip=24.0=py310hca03da5_0
   - platformdirs=4.2.2=pyhd8ed1ab_0
   - pre-commit=3.4.0=py310hca03da5_1
+  - psutil=5.9.0=py310h1a28f6b_0
   - python=3.10.14=hb885b13_1
   - pyyaml=6.0.1=py310h80987f9_0
   - readline=8.2=h1a28f6b_0
