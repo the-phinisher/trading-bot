@@ -4,7 +4,7 @@ channels:
   - defaults
 dependencies:
   - aiosignal=1.3.1=pyhd8ed1ab_0
-  - async-timeout=4.0.3=pyhd8ed1ab_0
+  - async-timeout=4.0.3=py310hca03da5_0
   - attrs=23.2.0=pyh71513ae_0
   - black=24.4.2=py310hca03da5_0
   - blackd=24.4.2=hd8ed1ab_0
@@ -12,14 +12,13 @@ dependencies:
   - ca-certificates=2024.6.2=hf0a4a13_0
   - cffi=1.16.0=py310h80987f9_1
   - cfgv=3.4.0=py310hca03da5_0
-  - click=8.1.7=unix_pyh707e725_0
+  - click=8.1.7=py310hca03da5_0
   - distlib=0.3.8=py310hca03da5_0
   - identify=2.5.5=py310hca03da5_0
-  - idna=3.7=pyhd8ed1ab_0
+  - idna=3.7=py310hca03da5_0
   - libcxx=14.0.6=h848a8c0_0
   - libffi=3.4.4=hca03da5_1
-  - mypy=1.10.0=py310h80987f9_0
-  - mypy_extensions=1.0.0=pyha770c72_0
+  - mypy_extensions=1.0.0=py310hca03da5_0
   - ncurses=6.4=h313beb8_0
   - nodeenv=1.7.0=py310hca03da5_0
   - openssl=3.3.1=hfb2fe0b_1
@@ -27,14 +26,13 @@ dependencies:
   - pip=24.0=py310hca03da5_0
   - platformdirs=4.2.2=pyhd8ed1ab_0
   - pre-commit=3.4.0=py310hca03da5_1
-  - psutil=5.9.0=py310h1a28f6b_0
   - python=3.10.14=hb885b13_1
   - pyyaml=6.0.1=py310h80987f9_0
   - readline=8.2=h1a28f6b_0
   - setuptools=69.5.1=py310hca03da5_0
   - sqlite=3.45.3=h80987f9_0
   - tk=8.6.14=h6ba3021_0
-  - tomli=2.0.1=pyhd8ed1ab_0
+  - tomli=2.0.1=py310hca03da5_0
   - typing_extensions=4.12.2=pyha770c72_0
   - ukkonen=1.0.1=py310h525c30c_0
   - virtualenv=20.26.1=py310hca03da5_0
